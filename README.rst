@@ -192,8 +192,13 @@ To provide your public key, start by exporting an ASCII-armored copy of
 your public key. Paste your armored public key into the empty text box
 on the left and hit **Save**.
 
-.. todo::  provide instructions for exporting ascii-armored copy, or provide
-   link to instructions on another site
+The easiest way to do this is to open the Key Management window in Enigmail.
+Find your key in the list and select it, then right-click and select "Copy
+Public Keys to Clipboard". You may then paste it into the web form in Redmine.
+
+For further help on exporting your public key in the correct format, please
+consult the `GnuPG manual <https://www.gnupg.org/gph/en/manual/x56.html>`_ or
+`Enigmail Wiki <https://enigmail.wiki/Key_Management#Distributing_your_public_key>`_.
 
 Now, import the public key for our Redmine server. It is available on
 the right hand side of the page. Start by selecting the entire public
@@ -210,7 +215,7 @@ following command:
    placeholder until the transition to a live key. DO NOT upload this key to
    keyservers.
 
-    gpg --keyserver keys.gnupg.net --recv-keys 
+    gpg --keyserver keys.gnupg.net --recv-keys
     5F7B9C54E9B27164909EDA6693359153A3BD4560
 
 The key can be downloaded `at this
@@ -232,7 +237,7 @@ To check these settings, go to Edit > Account Settings in Thunderbird.
 Navigate to the "OpenPGP Security" tab of your e-mail account. Be sure
 that "Use PGP/MIME by default" is checked. You may not want to enable
 "Sign messages by default" for everything, so we encourage you to add a
-per-recipient rule for support@freedom.press. T
+per-recipient rule for support@freedom.press.
 
 To do this, go to Enigmail > Edit Per-Recipient Rules > click Add, enter
 in support@freedom.press. Set to Apply rule if "Contains" the above
