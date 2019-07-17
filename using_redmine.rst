@@ -55,7 +55,9 @@ onboarding, called "Onboarding Verification". Please write a reply on
 this issue, which will let us know that you succeeded in logging in and
 finding your project page.
 
-To write a reply, click **Edit** button at the bottom of the issue.
+|OnboardingIssue|
+
+To write a reply, click **Edit** button at the top of the issue.
 Write your reply in the Notes text box, then click **Submit**.
 
 We'll reply to the issue and start a little exchange to explain some
@@ -63,8 +65,12 @@ features of the platform and answer any questions you might have. The
 goal here is to make sure you're comfortable and confident using the new
 Support site.
 
+|EditIssue1|
+
 Once we're satisfied you're ready to use the new site, we'll close the
 issue.
+
+|EditIssue2|
 
 Once we're finished with the onboarding issue, you're ready to use the Support
 site. If you want to additionally set up encrypted email notifications, head
@@ -72,6 +78,9 @@ over to the :doc:`Encrypted Email Overview <encrypted_email_overview>`.
 
 The rest of this documentation is for your reference.
 
+.. |OnboardingIssue| image:: images/onboarding_issue.png
+.. |EditIssue1| image:: images/edit_issue_1.png
+.. |EditIssue2| image:: images/edit_issue_2.png
 
 Key Features
 ------------
@@ -84,6 +93,10 @@ Description fields. All other fields can be left blank, although you can
 assign a priority if you want. When we see the issue, we will respond
 and assign it to the appropriate person. If we're waiting for a reply
 from someone in your organization, we may assign it back to you.
+
+|NewIssue|
+
+.. |NewIssue| image:: images/new_issue.png
 
 Creating a new issue via email
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
