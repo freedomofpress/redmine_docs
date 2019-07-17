@@ -112,6 +112,10 @@ Under your account settings (accessible in the top right corner) you may
 set your local time zone. We encourage you to leave the notification
 setting as the default: "For any event on all my projects".
 
+|AccountSettings|
+
+.. |AccountSettings| image:: images/account_settings.png
+
 Additional Documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
