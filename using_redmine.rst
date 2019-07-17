@@ -60,17 +60,17 @@ finding your project page.
 To write a reply, click **Edit** button at the top of the issue.
 Write your reply in the Notes text box, then click **Submit**.
 
+|EditIssue1|
+
 We'll reply to the issue and start a little exchange to explain some
 features of the platform and answer any questions you might have. The
 goal here is to make sure you're comfortable and confident using the new
 Support site.
 
-|EditIssue1|
+|EditIssue2|
 
 Once we're satisfied you're ready to use the new site, we'll close the
 issue.
-
-|EditIssue2|
 
 Once we're finished with the onboarding issue, you're ready to use the Support
 site. If you want to additionally set up encrypted email notifications, head
@@ -104,13 +104,6 @@ Creating a new issue via email
 Sending an email to support@freedom.press will automatically create a
 new issue in your project, using the subject line of the email for the
 Subject and the body of the email for the Description.
-
-Wiki
-^^^^
-
-In addition to the Activity pane which lists recent updates, your subproject has
-a **Wiki** module. This is where we will store notes and other useful
-information related to your SecureDrop instance.
 
 Account Settings
 ^^^^^^^^^^^^^^^^
