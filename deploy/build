@@ -6,7 +6,9 @@
 set -e
 
 
-latest_branch=main
+# TEMPORARY: override this for CI testing
+#latest_branch=main
+latest_branch=k8s-container
 
 do_build() {
     git checkout "$1"
